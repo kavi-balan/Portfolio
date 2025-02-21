@@ -1,7 +1,7 @@
 /* General Styles */
 body {
     font-family: Arial, sans-serif;
-    background-color: white;
+    background-color: rgb(175, 20, 232);
     color: black;
     margin: 30px;
     padding: 0;
@@ -10,10 +10,10 @@ body {
 
 /* Header */
 header {
-    background: grey;
+    background: black;
     color: white;
     padding: 20px;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Shadow effect */
+    box-shadow: 0 4px 10px rgb(255, 255, 255); /* Shadow effect */
 }
 
 header h1 {
@@ -47,7 +47,7 @@ section {
     width: 80%;
     max-width: 800px;
     border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Shadow effect */
+    box-shadow: 10px 10px black;
 }
 
 h2 {
@@ -67,7 +67,7 @@ ul li {
     padding: 10px;
     width: 60%;
     border-radius: 5px;
-    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.1);
+    box-shadow: 5px 5px black;
 }
 
 /* Contact Section */
@@ -83,9 +83,9 @@ ul li {
 
 /* Footer */
 footer {
-    background: grey;
+    background: black;
     color: white;
     padding: 15px;
     margin-top: 20px;
-    box-shadow: 0 -4px 8px rgba(0, 0, 0, 0.2);
+     box-shadow: 0 4px 10px rgb(255, 255, 255); /* Shadow effect */
 }
