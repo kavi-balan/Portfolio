@@ -1,13 +1,15 @@
 /* General Styles */
 body {
     font-family: Arial, sans-serif;
-    background-color: rgb(175, 20, 232);
+    background-color: sandybrown;
     color: black;
     margin: 30px;
     padding: 0;
     text-align: center;
 }
-
+h2{
+    color: black !important;
+}
 /* Header */
 header {
     background: black;
